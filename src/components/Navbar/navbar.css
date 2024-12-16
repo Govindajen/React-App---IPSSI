@@ -1,0 +1,25 @@
+.navbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.title {
+    margin: 0 12px;
+}
+
+.links {
+    width: 30%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.navItem {
+    min-width: 70px;
+    margin: 3px 6px;
+    padding: 16px;
+    border: 1px solid transparent;
+    text-decoration: none;
+    border-bottom: 1px solid darkblue;
+}

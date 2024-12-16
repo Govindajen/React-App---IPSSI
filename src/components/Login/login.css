@@ -1,0 +1,32 @@
+.loginContainer {
+    margin-top: 3em;
+    background-color: beige;
+    padding: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 60%;
+    height: 45%;
+    border-radius: 16px;
+}
+
+.btn {
+    background-color: darkcyan;
+    padding: 16px;
+    border-radius: 10px;
+    border: 1px solid transparent;
+    color: white;
+    min-width: 120px;
+    cursor: pointer;
+    margin: 10px 6px;
+    
+}
+
+.inputLogin {
+    width: 35%;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 16px;
+    margin: 3px 6px;
+}

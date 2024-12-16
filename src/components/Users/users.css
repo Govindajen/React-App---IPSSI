@@ -1,0 +1,11 @@
+.users {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 300px;
+    align-items: end;
+}
+
+h3 {
+    margin: 0;
+}

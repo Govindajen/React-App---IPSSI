@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "lastname": "Johnson"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "lastname": "Smith"
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "lastname": "Brown"
+    },
+    {
+      "id": 4,
+      "name": "Diana",
+      "lastname": "Prince"
+    },
+    {
+      "id": 5,
+      "name": "Ethan",
+      "lastname": "Hunt"
+    }
+  ]
+}
